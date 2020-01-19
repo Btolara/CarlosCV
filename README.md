@@ -1,2 +1,0 @@
-# CarlosCV
-Created with CodeSandbox
